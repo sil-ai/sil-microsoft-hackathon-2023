@@ -21,6 +21,8 @@ Greek and Hebrew data is sourced from [Clear-Bible/macula-greek](https://github.
 
 Parallel English Bibles sourced from [scrollmapper/bible_databases](https://github.com/scrollmapper/bible_databases).
 
+VREF metadata file sourced from [BibleNLP/ebible](https://github.com/BibleNLP/ebible/tree/main). (Many more languages aligned to the metadata file can be found in this eBible repository.)
+
 ## License
 
 MIT License
