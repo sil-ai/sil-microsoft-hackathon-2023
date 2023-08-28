@@ -27,6 +27,16 @@ VREF metadata file sourced from [BibleNLP/ebible](https://github.com/BibleNLP/eb
 
 MIT License
 
+### Translations in the eBible Corpus that have the most permissive licenses (by and by-sa)
+
+The following language codes have highly permissive licenses (including derivative and commercial uses):
+
+```python
+['aka', 'amo', 'arbnav', 'asmfb', 'ben2017', 'beo', 'bsj', 'cebulb', 'ckb', 'cmnfeb', 'deu1951', 'dji', 'dov', 'eng-t4t', 'engf35', 'engfbv', 'englsv', 'engourb', 'engtcent', 'engULB', 'ewe', 'francl', 'guj2017', 'gux', 'guxg', 'hatbsa', 'hausa', 'hauulb', 'hin2017', 'hun', 'iloulb', 'indags', 'isn', 'jid', 'jni', 'kan2017', 'kbq', 'kik', 'kiz', 'lin', 'lit', 'lug', 'luo', 'mal', 'malc', 'mar', 'ndg', 'npiulb', 'nya', 'ory', 'pan', 'polsz', 'porblt', 'porbr2018', 'portft', 'reg', 'rmyArli', 'rmyChergash', 'rmyGurbet', 'ronBayash', 'ronludari', 'row', 'sanasm', 'sanben', 'sanbur', 'sandev', 'sanguj', 'sanhk', 'sanias', 'saniso', 'sanitr', 'sankhm', 'sanmal', 'sanori', 'sanpun', 'sansin', 'santam', 'santel', 'santha', 'santib', 'sanurd', 'sanvel', 'sbk', 'sbs', 'spabes', 'spapddpt', 'spavbl', 'swhonen', 'swhulb', 'tam2017', 'tczchongthu', 'tel2017', 'tglulb', 'thd', 'twi', 'uigara', 'uigcyr', 'uiglat', 'uigpin', 'urd', 'vieovcb', 'wbi', 'yij', 'yor', 'zgam']
+```
+
+For more detail on each of these, see `data/permissive_licensed_translations.csv`.
+
 ## Contact
 
 For questions about this code or data, please contact [Ryder Wishart](https://github.com/ryderwishart).
