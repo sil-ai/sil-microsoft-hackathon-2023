@@ -31,4 +31,4 @@ MIT License
 
 For questions about this code or data, please contact [Ryder Wishart](https://github.com/ryderwishart).
 
-For questions about the hackathon, please contact Jeremy Hodes or Mark Woodward (SIL), or Chris Priebe (Microsoft).
+For questions about the hackathon, please contact Jeremy Hodes or [Mark Woodward](https://github.com/woodwardmw) (SIL), or Chris Priebe (Microsoft).
