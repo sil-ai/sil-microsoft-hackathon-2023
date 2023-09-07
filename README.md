@@ -37,6 +37,35 @@ The following language codes have highly permissive licenses (including derivati
 
 For more detail on each of these, see `data/permissive_licensed_translations.csv`.
 
+### Focus language for the hackathon
+
+For the hackathon translation task, we will focus on the Amo New Testament, since we do not have an Old Testament for this language yet.
+
+The Amo language is a Niger-Congo language from Nigeria. More info may be found at [ethnologue](https://www.ethnologue.com/language/amo/) and [language-archives.org](http://www.language-archives.org/language/amo).
+
+The text for this language can be found in the BibleNLP repo [here](https://github.com/BibleNLP/ebible/blob/main/corpus/amo-amo.txt), and a verse-aligned version with the Greek/Hebrew ([Macula Greek](https://github.com/Clear-Bible/macula-greek/tree/main) and [Hebrew](https://github.com/Clear-Bible/macula-hebrew/tree/main) data) and English ([Berean Standard Bible](https://berean.bible/downloads.htm)) can be found under `data/amo.json`.
+
+The verse-aligned file content contains a JSON array of triplet objects like this:
+
+```json
+{
+    "vref": "REV 22:21",
+    "bsb": {
+        "content": "The grace of the Lord Jesus be with all the saints. Amen."
+    },
+    "macula": {
+        "content": "Ἠ  χάρις  τοῦ  Κυρίου  Ἰησοῦ  μετὰ  πάντων."
+    },
+    "target": {
+        "content": "Na nshew nCikilari Yisa so nin ko ngna mine. Uso nani."
+    }
+}
+```
+
+> Note that the `amo.json` file will not have an empty string in `target['content']` for the entire Old Testament. At least, it will until you populate that content!
+
+Because we will not be able to comprehend the output of any generated translations, we will need to rely on techniques such as witholding test data from the New Testament, or other validation methods you might come up with.
+
 ## Contact
 
 For questions about this code or data, please contact [Ryder Wishart](https://github.com/ryderwishart).
