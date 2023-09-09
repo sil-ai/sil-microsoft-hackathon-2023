@@ -22,7 +22,7 @@ Hackathon tasks:
 Data sources:
 
 * [Ebible Corpus](https://github.com/BibleNLP/ebible)
-* [Greek and Hebrew texts](data/combined_greek_hebrew_vref.csv)
+* [Greek and Hebrew texts](../data/combined_greek_hebrew_vref.csv)
 * [MACULA Hebrew data](https://github.com/Clear-Bible/macula-hebrew)
 * [MACULA Greek data](https://github.com/Clear-Bible/macula-greek)
-* [Pre-hackathon internship work](project_1_task/pre-Hackathon)
+* [Pre-hackathon internship work](./pre-Hackathon)
