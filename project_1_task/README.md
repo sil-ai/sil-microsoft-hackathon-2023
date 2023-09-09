@@ -26,3 +26,7 @@ Data sources:
 * [MACULA Hebrew data](https://github.com/Clear-Bible/macula-hebrew)
 * [MACULA Greek data](https://github.com/Clear-Bible/macula-greek)
 * [Pre-hackathon internship work](./pre-Hackathon)
+
+Current QA model used for inference:
+
+[sentence-transformers/all-mpnet-base-v2](https://huggingface.co/sentence-transformers/all-mpnet-base-v2)
