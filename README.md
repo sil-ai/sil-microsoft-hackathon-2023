@@ -6,6 +6,10 @@ In collaboration with SIL (Summer Institute of Linguistics), Microsoft is hostin
 
 This repository contains data and code for hitting the ground running.
 
+## Introductory Presentations
+
+[SIL-Microsoft Hackathon: Introduction to Bible Translation and Project 1](https://docs.google.com/presentation/d/1N_cfJPq36Wc-5c5HD1GnZkC4ruV7Ppitft9YrDXsAh8)
+
 ## Data
 
 The data is a collection of Bible translations in the `data/bibles.csv` file.
