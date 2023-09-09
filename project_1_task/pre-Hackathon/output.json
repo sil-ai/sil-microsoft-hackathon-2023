@@ -1,0 +1,1803 @@
+[
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 1,
+		"end_verse": 1,
+		"context": "During the time of the judges there was a famine in the land of Judah. So a man from Bethlehem in Judah went to live as a resident foreigner in the region of Moab, along with his wife and two sons.\n",
+		"questions": [
+			{
+				"question": "Where did the man from Bethlehem go to live?",
+				"answer": "Moab"
+			},
+			{
+				"question": "How many sons did the man have?",
+				"answer": "Two"
+			},
+			{
+				"question": "Where was there a famine?",
+				"answer": "Judah"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 2,
+		"end_verse": 2,
+		"context": "(Now the man�s name was Elimelech, his wife was Naomi, and his two sons were Mahlon and Kilion. They were of the clan of Ephrath from Bethlehem in Judah.) They entered the region of Moab and settled there.\n",
+		"questions": [
+			{
+				"question": "What was the man's name?",
+				"answer": "Elimelech"
+			},
+			{
+				"question": "What was the woman's name?",
+				"answer": "Naomi"
+			},
+			{
+				"question": "What were the names of the man's two sons?",
+				"answer": "Mahlon and Kilion"
+			},
+			{
+				"question": "Where did they settle?",
+				"answer": "Moab"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 3,
+		"end_verse": 3,
+		"context": "Sometime later Naomi�s husband Elimelech died, so she and her two sons were left alone.\n",
+		"questions": [
+			{
+				"question": "Who died?",
+				"answer": "Elimelech"
+			},
+			{
+				"question": "Who was left alone?",
+				"answer": "Naomi and her two sons"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 4,
+		"end_verse": 4,
+		"context": "So her sons married Moabite women. (One was named Orpah and the other Ruth.) And they continued to live there about ten years.\n",
+		"questions": [
+			{
+				"question": "Who did her sons marry?",
+				"answer": "Moabite women"
+			},
+			{
+				"question": "What were the names of her sons' wives?",
+				"answer": "Orpah and Ruth"
+			},
+			{
+				"question": "How long did they continue to live there?",
+				"answer": "About ten years"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 5,
+		"end_verse": 5,
+		"context": "Then Naomi�s two sons, Mahlon and Kilion, also died. So the woman was left all alone � bereaved of her two children as well as her husband!\n",
+		"questions": [
+			{
+				"question": "Who died?",
+				"answer": "Mahlon and Kilion"
+			},
+			{
+				"question": "Who was left all alone?",
+				"answer": "The woman"
+			},
+			{
+				"question": "Who was bereaved?",
+				"answer": "The woman"
+			},
+			{
+				"question": "Who was the woman's husband?",
+				"answer": "Unknown"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 6,
+		"end_verse": 6,
+		"context": "So she decided to return home from the region of Moab, accompanied by her daughters-in-law, because while she was living in Moab she had heard that the Lord had shown concern for his people, reversing the famine by providing abundant crops.\n",
+		"questions": [
+			{
+				"question": "Where did she decide to return home from?",
+				"answer": "The region of Moab"
+			},
+			{
+				"question": "Who did she return home with?",
+				"answer": "Her daughters-in-law"
+			},
+			{
+				"question": "Why did she decide to return home?",
+				"answer": "Because the Lord had shown concern for his people and provided abundant crops"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 7,
+		"end_verse": 7,
+		"context": "Now as she and her two daughters-in-law began to leave the place where she had been living to return to the land of Judah,\n",
+		"questions": [
+			{
+				"question": "Who began to leave the place?",
+				"answer": "She"
+			},
+			{
+				"question": "How many daughters-in-law did she have?",
+				"answer": "Two"
+			},
+			{
+				"question": "Where were they returning to?",
+				"answer": "The land of Judah"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 8,
+		"end_verse": 8,
+		"context": "Naomi said to her two daughters-in-law, �Listen to me! Each of you should return to your mother�s home! May the Lord show you the same kind of devotion that you have shown to your deceased husbands and to me!\n",
+		"questions": [
+			{
+				"question": "Who did Naomi say should return to their mother's home?",
+				"answer": "Each of you"
+			},
+			{
+				"question": "What did Naomi want the Lord to show to her daughters-in-law?",
+				"answer": "Devotion"
+			},
+			{
+				"question": "Who did Naomi want the Lord to show devotion to?",
+				"answer": "Her daughters-in-law"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 9,
+		"end_verse": 9,
+		"context": "May the Lord enable each of you to find security in the home of a new husband!� Then she kissed them goodbye and they wept loudly.\n",
+		"questions": [
+			{
+				"question": "Who may the Lord enable to find security?",
+				"answer": "Each of you"
+			},
+			{
+				"question": "Where should they find security?",
+				"answer": "In the home of a new husband"
+			},
+			{
+				"question": "What did she do before they left?",
+				"answer": "She kissed them goodbye"
+			},
+			{
+				"question": "How did they react when she kissed them goodbye?",
+				"answer": "They wept loudly"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 10,
+		"end_verse": 10,
+		"context": "But they said to her, �No! We will return with you to your people.�\n",
+		"questions": [
+			{
+				"question": "Who said, 'No! We will return with you to your people.'?",
+				"answer": "They"
+			},
+			{
+				"question": "To whom did they say, 'No! We will return with you to your people.'?",
+				"answer": "Her"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 11,
+		"end_verse": 11,
+		"context": "But Naomi replied, �Go back home, my daughters! There is no reason for you to return to Judah with me! I am no longer capable of giving birth to sons who might become your husbands!\n",
+		"questions": [
+			{
+				"question": "What did Naomi tell her daughters to do?",
+				"answer": "Go back home"
+			},
+			{
+				"question": "Where did Naomi tell her daughters to go?",
+				"answer": "Home"
+			},
+			{
+				"question": "Why did Naomi tell her daughters to go back home?",
+				"answer": "There is no reason for you to return to Judah with me"
+			},
+			{
+				"question": "What did Naomi say she is no longer capable of?",
+				"answer": "Giving birth to sons"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 12,
+		"end_verse": 12,
+		"context": "Go back home, my daughters! For I am too old to get married again. Even if I thought that there was hope that I could get married tonight and conceive sons,\n",
+		"questions": [
+			{
+				"question": "Where did Naomi want her daughters to go?",
+				"answer": "Home"
+			},
+			{
+				"question": "Why did Naomi ask her daughters to go back home?",
+				"answer": "Because she is too old to get married again"
+			},
+			{
+				"question": "What did Naomi hope to do tonight?",
+				"answer": "Get married"
+			},
+			{
+				"question": "What did Naomi hope to conceive?",
+				"answer": "Sons"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 13,
+		"end_verse": 13,
+		"context": "surely you would not want to wait until they were old enough to marry! Surely you would not remain unmarried all that time! No, my daughters, you must not return with me. For my intense suffering is too much for you to bear. For the Lord is afflicting me!�\n",
+		"questions": [
+			{
+				"question": "Who is speaking in this verse?",
+				"answer": "Naomi"
+			},
+			{
+				"question": "What does Naomi not want her daughters to do?",
+				"answer": "Return with her"
+			},
+			{
+				"question": "Why does Naomi not want her daughters to return with her?",
+				"answer": "Her intense suffering is too much for them to bear"
+			},
+			{
+				"question": "Who is afflicting Naomi?",
+				"answer": "The Lord"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 14,
+		"end_verse": 14,
+		"context": "Again they wept loudly. Then Orpah kissed her mother-in-law goodbye, but Ruth clung tightly to her.\n",
+		"questions": [
+			{
+				"question": "Who kissed her mother-in-law goodbye?",
+				"answer": "Orpah"
+			},
+			{
+				"question": "Who clung tightly to her mother-in-law?",
+				"answer": "Ruth"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 15,
+		"end_verse": 15,
+		"context": "So Naomi said, �Look, your sister-in-law is returning to her people and to her god. Follow your sister-in-law back home!�\n",
+		"questions": [
+			{
+				"question": "Who is returning to her people?",
+				"answer": "Your sister-in-law"
+			},
+			{
+				"question": "Who is Naomi talking to?",
+				"answer": "You"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 16,
+		"end_verse": 16,
+		"context": "But Ruth replied, �Stop urging me to abandon you! For wherever you go, I will go. Wherever you live, I will live. Your people will become my people, and your God will become my God.\n",
+		"questions": [
+			{
+				"question": "Who did Ruth reply to?",
+				"answer": "Stop"
+			},
+			{
+				"question": "Wherever you go, where will I go?",
+				"answer": "Your people"
+			},
+			{
+				"question": "What will become my people?",
+				"answer": "Your people"
+			},
+			{
+				"question": "Who will become my God?",
+				"answer": "Your God"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 17,
+		"end_verse": 17,
+		"context": "Wherever you die, I will die � and there I will be buried. May the Lord punish me severely if I do not keep my promise! Only death will be able to separate me from you!�\n",
+		"questions": [
+			{
+				"question": "Where will the speaker be buried?",
+				"answer": "There"
+			},
+			{
+				"question": "What will be able to separate the speaker from the other person?",
+				"answer": "Only death"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 18,
+		"end_verse": 18,
+		"context": "When Naomi realized that Ruth was determined to go with her, she stopped trying to dissuade her.\n",
+		"questions": [
+			{
+				"question": "Who was determined to go with Naomi?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "What did Naomi stop trying to do?",
+				"answer": "Dissuade Ruth"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 19,
+		"end_verse": 19,
+		"context": "So the two of them journeyed together until they arrived in Bethlehem. When they entered Bethlehem, the whole village was excited about their arrival. The women of the village said, �Can this be Naomi?�\n",
+		"questions": [
+			{
+				"question": "Where did the two of them journey together?",
+				"answer": "Bethlehem"
+			},
+			{
+				"question": "Who was excited about their arrival in Bethlehem?",
+				"answer": "The whole village"
+			},
+			{
+				"question": "What did the women of the village ask?",
+				"answer": "Can this be Naomi?"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 20,
+		"end_verse": 20,
+		"context": "But she replied to them, �Don�t call me �Naomi�! Call me �Mara� because the Sovereign One has treated me very harshly.\n",
+		"questions": [
+			{
+				"question": "What did Naomi want to be called?",
+				"answer": "Mara"
+			},
+			{
+				"question": "Why did Naomi want to be called Mara?",
+				"answer": "Because the Sovereign One has treated her very harshly"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 21,
+		"end_verse": 21,
+		"context": "I left here full, but the Lord has caused me to return empty-handed. Why do you call me �Naomi,� seeing that the Lord has opposed me, and the Sovereign One has caused me to suffer?�\n",
+		"questions": [
+			{
+				"question": "What did the Lord cause Naomi to return as?",
+				"answer": "Empty-handed"
+			},
+			{
+				"question": "Why did Naomi ask why she was called 'Naomi'?",
+				"answer": "Because the Lord has opposed her"
+			},
+			{
+				"question": "Who caused Naomi to suffer?",
+				"answer": "The Sovereign One"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 1,
+		"start_verse": 22,
+		"end_verse": 22,
+		"context": "So Naomi returned, accompanied by her Moabite daughter-in-law Ruth, who came back with her from the region of Moab. (Now they arrived in Bethlehem at the beginning of the barley harvest.)\n",
+		"questions": [
+			{
+				"question": "Who accompanied Naomi back to Bethlehem?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "Where did Ruth come from?",
+				"answer": "Moab"
+			},
+			{
+				"question": "When did Naomi and Ruth arrive in Bethlehem?",
+				"answer": "At the beginning of the barley harvest"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 1,
+		"end_verse": 1,
+		"context": "Now Naomi had a relative on her husband�s side of the family named Boaz. He was a wealthy, prominent man from the clan of Elimelech.\n",
+		"questions": [
+			{
+				"question": "Who was Naomi's relative?",
+				"answer": "Boaz"
+			},
+			{
+				"question": "What was Boaz's relation to Naomi?",
+				"answer": "Relative"
+			},
+			{
+				"question": "Where was Boaz from?",
+				"answer": "Clan of Elimelech"
+			},
+			{
+				"question": "What kind of man was Boaz?",
+				"answer": "Wealthy, prominent"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 2,
+		"end_verse": 2,
+		"context": "One day Ruth the Moabite said to Naomi, �Let me go to the fields so I can gather grain behind whoever permits me to do so.� Naomi replied, �You may go, my daughter.�\n",
+		"questions": [
+			{
+				"question": "Who said, 'Let me go to the fields so I can gather grain'?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "Who did Ruth want to gather grain behind?",
+				"answer": "Whoever permits her"
+			},
+			{
+				"question": "Who replied, 'You may go, my daughter'?",
+				"answer": "Naomi"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 3,
+		"end_verse": 3,
+		"context": "So Ruth went and gathered grain in the fields behind the harvesters. Now she just happened to end up in the portion of the field belonging to Boaz, who was from the clan of Elimelech.\n",
+		"questions": [
+			{
+				"question": "Where did Ruth gather grain?",
+				"answer": "Fields"
+			},
+			{
+				"question": "Whose portion of the field did Ruth end up in?",
+				"answer": "Boaz's"
+			},
+			{
+				"question": "Who was Boaz from the clan of?",
+				"answer": "Elimelech"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 4,
+		"end_verse": 4,
+		"context": "Now at that very moment, Boaz arrived from Bethlehem and greeted the harvesters, �May the Lord be with you!� They replied, �May the Lord bless you!�\n",
+		"questions": [
+			{
+				"question": "Who arrived from Bethlehem?",
+				"answer": "Boaz"
+			},
+			{
+				"question": "Who did Boaz greet?",
+				"answer": "The harvesters"
+			},
+			{
+				"question": "What did Boaz say when he greeted the harvesters?",
+				"answer": "May the Lord be with you!"
+			},
+			{
+				"question": "How did the harvesters reply to Boaz's greeting?",
+				"answer": "May the Lord bless you!"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 5,
+		"end_verse": 5,
+		"context": "Boaz asked his servant in charge of the harvesters, �To whom does this young woman belong?�\n",
+		"questions": [
+			{
+				"question": "Who did Boaz ask about?",
+				"answer": "This young woman"
+			},
+			{
+				"question": "Who does this young woman belong to?",
+				"answer": "Someone"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 6,
+		"end_verse": 6,
+		"context": "The servant in charge of the harvesters replied, �She�s the young Moabite woman who came back with Naomi from the region of Moab.\n",
+		"questions": [
+			{
+				"question": "Who is the servant in charge of the harvesters talking about?",
+				"answer": "She"
+			},
+			{
+				"question": "Where did She come back from?",
+				"answer": "The region of Moab"
+			},
+			{
+				"question": "Who did She come back with?",
+				"answer": "Naomi"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 7,
+		"end_verse": 7,
+		"context": "She asked, �May I follow the harvesters and gather grain among the bundles?� Since she arrived she has been working hard from this morning until now � except for sitting in the resting hut a short time.�\n",
+		"questions": [
+			{
+				"question": "What did she ask?",
+				"answer": "May I follow the harvesters and gather grain among the bundles?"
+			},
+			{
+				"question": "What has she been doing since she arrived?",
+				"answer": "Working hard"
+			},
+			{
+				"question": "Where did she sit?",
+				"answer": "In the resting hut"
+			},
+			{
+				"question": "For how long did she sit in the resting hut?",
+				"answer": "A short time"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 8,
+		"end_verse": 8,
+		"context": "So Boaz said to Ruth, �Listen carefully, my dear! Do not leave to gather grain in another field. You need not go beyond the limits of this field. You may go along beside my female workers.\n",
+		"questions": [
+			{
+				"question": "Who said to Ruth, �Listen carefully, my dear!",
+				"answer": "Boaz"
+			},
+			{
+				"question": "What did Boaz tell Ruth not to do in another field?",
+				"answer": "Leave to gather grain"
+			},
+			{
+				"question": "Where did Boaz tell Ruth she could go?",
+				"answer": "Beside his female workers"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 9,
+		"end_verse": 9,
+		"context": "Take note of the field where the men are harvesting and follow behind with the female workers. I will tell the men to leave you alone. When you are thirsty, you may go to the water jars and drink some of the water the servants draw.�\n",
+		"questions": [
+			{
+				"question": "Who should take note of the field?",
+				"answer": "You"
+			},
+			{
+				"question": "Who should follow behind the men?",
+				"answer": "The female workers"
+			},
+			{
+				"question": "Where can you go when you are thirsty?",
+				"answer": "To the water jars"
+			},
+			{
+				"question": "Who draws the water?",
+				"answer": "The servants"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 10,
+		"end_verse": 10,
+		"context": "Ruth knelt before him with her forehead to the ground and said to him, �Why are you so kind and so attentive to me, even though I am a foreigner?�\n",
+		"questions": [
+			{
+				"question": "Who knelt before him?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "What did Ruth do when she knelt before him?",
+				"answer": "She bowed her forehead to the ground"
+			},
+			{
+				"question": "What did Ruth ask him?",
+				"answer": "Why are you so kind and attentive to me?"
+			},
+			{
+				"question": "What did Ruth mention about herself?",
+				"answer": "She is a foreigner"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 11,
+		"end_verse": 11,
+		"context": "Boaz replied to her, �I have been given a full report of all that you have done for your mother-in-law following the death of your husband � how you left your father and your mother, as well as your homeland, and came to live among people you did not know previously.\n",
+		"questions": [
+			{
+				"question": "Who has Boaz been given a full report of?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "What did Ruth do for her mother-in-law?",
+				"answer": "Followed"
+			},
+			{
+				"question": "Who did Ruth leave?",
+				"answer": "Her father and her mother"
+			},
+			{
+				"question": "Where did Ruth come to live?",
+				"answer": "Among people she did not know previously"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 12,
+		"end_verse": 12,
+		"context": "May the Lord reward your efforts! May your acts of kindness be repaid fully by the Lord God of Israel, from whom you have sought protection!�\n",
+		"questions": [
+			{
+				"question": "Who will reward your efforts?",
+				"answer": "The Lord"
+			},
+			{
+				"question": "What will be repaid fully?",
+				"answer": "Your acts of kindness"
+			},
+			{
+				"question": "Who is the Lord God of Israel?",
+				"answer": "The one from whom you have sought protection"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 13,
+		"end_verse": 13,
+		"context": "She said, �You really are being kind to me, sir, for you have reassured and encouraged me, your servant, even though I am not one of your servants!�\n",
+		"questions": [
+			{
+				"question": "Who said, 'You really are being kind to me, sir'?",
+				"answer": "She"
+			},
+			{
+				"question": "Who was being kind to her?",
+				"answer": "Sir"
+			},
+			{
+				"question": "Who did she say she is not?",
+				"answer": "One of your servants"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 14,
+		"end_verse": 14,
+		"context": "Later during the mealtime Boaz said to her, �Come here and have some food! Dip your bread in the vinegar!� So she sat down beside the harvesters. Then he handed her some roasted grain. She ate until she was full and saved the rest.\n",
+		"questions": [
+			{
+				"question": "Who said 'Come here and have some food!'?",
+				"answer": "Boaz"
+			},
+			{
+				"question": "What did Boaz want her to dip in the vinegar?",
+				"answer": "Bread"
+			},
+			{
+				"question": "Where did she sit down beside?",
+				"answer": "The harvesters"
+			},
+			{
+				"question": "What did Boaz hand her to eat?",
+				"answer": "Roasted grain"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 15,
+		"end_verse": 15,
+		"context": "When she got up to gather grain, Boaz told his male servants, �Let her gather grain even among the bundles! Don�t chase her off!\n",
+		"questions": [
+			{
+				"question": "Who told his male servants to let her gather grain even among the bundles?",
+				"answer": "Boaz"
+			},
+			{
+				"question": "What did Boaz tell his male servants to let her do?",
+				"answer": "Gather grain"
+			},
+			{
+				"question": "Where did Boaz tell his male servants to let her gather grain?",
+				"answer": "Among the bundles"
+			},
+			{
+				"question": "What did Boaz tell his male servants not to do?",
+				"answer": "Chase her off"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 16,
+		"end_verse": 16,
+		"context": "Make sure you pull out ears of grain for her and drop them so she can gather them up. Don�t tell her not to!�\n",
+		"questions": [
+			{
+				"question": "What should you pull out for her?",
+				"answer": "Ears of grain"
+			},
+			{
+				"question": "What should you do with the ears of grain?",
+				"answer": "Drop them"
+			},
+			{
+				"question": "What should she do with the dropped ears of grain?",
+				"answer": "Gather them up"
+			},
+			{
+				"question": "What should you not tell her?",
+				"answer": "Not to"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 17,
+		"end_verse": 17,
+		"context": "So she gathered grain in the field until evening. When she threshed what she had gathered, it came to about thirty pounds of barley!\n",
+		"questions": [
+			{
+				"question": "What did she gather in the field?",
+				"answer": "Grain"
+			},
+			{
+				"question": "What did she thresh?",
+				"answer": "What she had gathered"
+			},
+			{
+				"question": "How much barley did she have?",
+				"answer": "Thirty pounds"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 18,
+		"end_verse": 18,
+		"context": "She carried it back to town, and her mother-in-law saw how much grain she had gathered. Then Ruth gave her the roasted grain she had saved from mealtime.\n",
+		"questions": [
+			{
+				"question": "Who carried the grain back to town?",
+				"answer": "She"
+			},
+			{
+				"question": "Who saw how much grain she had gathered?",
+				"answer": "Her mother-in-law"
+			},
+			{
+				"question": "What did Ruth give to her mother-in-law?",
+				"answer": "Roasted grain"
+			},
+			{
+				"question": "What did Ruth save from mealtime?",
+				"answer": "Roasted grain"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 19,
+		"end_verse": 19,
+		"context": "Her mother-in-law asked her, �Where did you gather grain today? Where did you work? May the one who took notice of you be rewarded!� So Ruth told her mother-in-law with whom she had worked. She said, �The name of the man with whom I worked today is Boaz.�\n",
+		"questions": [
+			{
+				"question": "Who asked Ruth where she gathered grain?",
+				"answer": "Her mother-in-law"
+			},
+			{
+				"question": "Who did Ruth work with?",
+				"answer": "Boaz"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 20,
+		"end_verse": 20,
+		"context": "Naomi said to her daughter-in-law, �May he be rewarded by the Lord because he has shown loyalty to the living on behalf of the dead!� Then Naomi said to her, �This man is a close relative of ours; he is our guardian.�\n",
+		"questions": [
+			{
+				"question": "Who did Naomi say has shown loyalty to the living on behalf of the dead?",
+				"answer": "He"
+			},
+			{
+				"question": "Who did Naomi say is a close relative of theirs?",
+				"answer": "This man"
+			},
+			{
+				"question": "Who did Naomi say is their guardian?",
+				"answer": "This man"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 21,
+		"end_verse": 21,
+		"context": "Ruth the Moabite replied, �He even told me, �You may go along beside my servants until they have finished gathering all my harvest!��\n",
+		"questions": [
+			{
+				"question": "Who replied?",
+				"answer": "Ruth the Moabite"
+			},
+			{
+				"question": "What did Ruth say God told her?",
+				"answer": "You may go along beside my servants until they have finished gathering all my harvest!"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 22,
+		"end_verse": 22,
+		"context": "Naomi then said to her daughter-in-law Ruth, �It is good, my daughter, that you should go out to work with his female servants. That way you will not be harmed, which could happen in another field.�\n",
+		"questions": [
+			{
+				"question": "Who did Naomi say it is good for Ruth to work with?",
+				"answer": "His female servants"
+			},
+			{
+				"question": "Why did Naomi want Ruth to work with his female servants?",
+				"answer": "To avoid harm"
+			},
+			{
+				"question": "Where could harm happen?",
+				"answer": "Another field"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 2,
+		"start_verse": 23,
+		"end_verse": 23,
+		"context": "So Ruth worked beside Boaz�s female servants, gathering grain until the end of the barley harvest as well as the wheat harvest. After that she stayed home with her mother-in-law.\n",
+		"questions": [
+			{
+				"question": "Who did Ruth work beside?",
+				"answer": "Boaz�s female servants"
+			},
+			{
+				"question": "What did Ruth gather?",
+				"answer": "Grain"
+			},
+			{
+				"question": "Until when did Ruth gather grain?",
+				"answer": "The end of the barley harvest"
+			},
+			{
+				"question": "Where did Ruth stay after the harvests?",
+				"answer": "Home with her mother-in-law"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 1,
+		"end_verse": 1,
+		"context": "At that time, Naomi, her mother-in-law, said to her, �My daughter, I must find a home for you so you will be secure.\n",
+		"questions": [
+			{
+				"question": "Who said, 'My daughter, I must find a home for you so you will be secure'?",
+				"answer": "Naomi"
+			},
+			{
+				"question": "Who did Naomi say she must find a home for?",
+				"answer": "Her daughter"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 2,
+		"end_verse": 2,
+		"context": "Now Boaz, with whose female servants you worked, is our close relative. Look, tonight he is winnowing barley at the threshing floor.\n",
+		"questions": [
+			{
+				"question": "Who is our close relative?",
+				"answer": "Boaz"
+			},
+			{
+				"question": "What is Boaz doing tonight?",
+				"answer": "Winnowing barley"
+			},
+			{
+				"question": "Who did you work with, Boaz's female servants?",
+				"answer": "Yes"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 3,
+		"end_verse": 3,
+		"context": "So bathe yourself, rub on some perfumed oil, and get dressed up. Then go down to the threshing floor. But don�t let the man know you�re there until he finishes his meal.\n",
+		"questions": [
+			{
+				"question": "What should you do before going down to the threshing floor?",
+				"answer": "Bathe yourself"
+			},
+			{
+				"question": "What should you rub on before going down to the threshing floor?",
+				"answer": "Perfumed oil"
+			},
+			{
+				"question": "Where should you go?",
+				"answer": "The threshing floor"
+			},
+			{
+				"question": "When should the man know you're there?",
+				"answer": "After he finishes his meal"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 4,
+		"end_verse": 4,
+		"context": "When he gets ready to go to sleep, take careful notice of the place where he lies down. Then go, uncover his legs, and lie down beside him. He will tell you what you should do.�\n",
+		"questions": [
+			{
+				"question": "What should you do when he gets ready to go to sleep?",
+				"answer": "Take careful notice of the place where he lies down"
+			},
+			{
+				"question": "What should you do after taking careful notice of the place where he lies down?",
+				"answer": "Go, uncover his legs, and lie down beside him"
+			},
+			{
+				"question": "What will he do after you lie down beside him?",
+				"answer": "He will tell you what you should do"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 5,
+		"end_verse": 5,
+		"context": "Ruth replied to Naomi, �I will do everything you have told me to do.�\n",
+		"questions": [
+			{
+				"question": "Who replied to Naomi?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "What will Ruth do?",
+				"answer": "Everything"
+			},
+			{
+				"question": "Who did Ruth say she will do everything for?",
+				"answer": "Naomi"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 6,
+		"end_verse": 6,
+		"context": "So she went down to the threshing floor and did everything her mother-in-law had instructed her to do.\n",
+		"questions": [
+			{
+				"question": "Where did she go?",
+				"answer": "To the threshing floor"
+			},
+			{
+				"question": "What did she do at the threshing floor?",
+				"answer": "Everything her mother-in-law had instructed her to do"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 7,
+		"end_verse": 7,
+		"context": "When Boaz had finished his meal and was feeling satisfied, he lay down to sleep at the far end of the grain heap. Then Ruth crept up quietly, uncovered his legs, and lay down beside him.\n",
+		"questions": [
+			{
+				"question": "Where did Boaz lay down to sleep?",
+				"answer": "The far end of the grain heap"
+			},
+			{
+				"question": "What did Ruth do when she crept up quietly?",
+				"answer": "Uncovered his legs"
+			},
+			{
+				"question": "Where did Ruth lay down?",
+				"answer": "Beside him"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 8,
+		"end_verse": 8,
+		"context": "In the middle of the night he was startled and turned over. Now he saw a woman lying beside him!\n",
+		"questions": [
+			{
+				"question": "When was he startled?",
+				"answer": "In the middle of the night"
+			},
+			{
+				"question": "Who did he see lying beside him?",
+				"answer": "A woman"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 9,
+		"end_verse": 9,
+		"context": "He said, �Who are you?� She replied, �I am Ruth, your servant. Marry your servant, for you are a guardian of the family interests.�\n",
+		"questions": [
+			{
+				"question": "Who asked, 'Who are you?'",
+				"answer": "He"
+			},
+			{
+				"question": "Who replied, 'I am Ruth, your servant'?",
+				"answer": "She"
+			},
+			{
+				"question": "What did she ask him to do?",
+				"answer": "Marry your servant"
+			},
+			{
+				"question": "What was he a guardian of?",
+				"answer": "The family interests"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 10,
+		"end_verse": 10,
+		"context": "He said, �May you be rewarded by the Lord, my dear! This act of devotion is greater than what you did before. For you have not sought to marry one of the young men, whether rich or poor.\n",
+		"questions": [
+			{
+				"question": "Who said, 'May you be rewarded by the Lord, my dear!'?",
+				"answer": "He"
+			},
+			{
+				"question": "What did the person say was greater than what was done before?",
+				"answer": "This act of devotion"
+			},
+			{
+				"question": "Who did the person say had not sought to marry one of the young men?",
+				"answer": "You"
+			},
+			{
+				"question": "What did the person say the person had not sought to marry?",
+				"answer": "One of the young men"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 11,
+		"end_verse": 11,
+		"context": "Now, my dear, don�t worry! I intend to do for you everything you propose, for everyone in the village knows that you are a worthy woman.\n",
+		"questions": [
+			{
+				"question": "Who is a worthy woman?",
+				"answer": "You"
+			},
+			{
+				"question": "What does everyone in the village know about you?",
+				"answer": "You are a worthy woman"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 12,
+		"end_verse": 12,
+		"context": "Now yes, it is true that I am a guardian, but there is another guardian who is a closer relative than I am.\n",
+		"questions": [
+			{
+				"question": "What is the speaker?",
+				"answer": "A guardian"
+			},
+			{
+				"question": "Is there another guardian who is closer relative?",
+				"answer": "Yes"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 13,
+		"end_verse": 13,
+		"context": "Remain here tonight. Then in the morning, if he agrees to marry you, fine, let him do so. But if he does not want to do so, I promise, as surely as the Lord lives, to marry you. Sleep here until morning.�\n",
+		"questions": [
+			{
+				"question": "Where should she remain for the night?",
+				"answer": "Here"
+			},
+			{
+				"question": "What should she do if he agrees to marry her?",
+				"answer": "Let him do so"
+			},
+			{
+				"question": "What should she do if he does not want to marry her?",
+				"answer": "Sleep here until morning"
+			},
+			{
+				"question": "Who promises to marry her?",
+				"answer": "I"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 14,
+		"end_verse": 14,
+		"context": "So she slept beside him until morning. She woke up while it was still dark. Boaz thought, �No one must know that a woman visited the threshing floor.�\n",
+		"questions": [
+			{
+				"question": "When did she wake up?",
+				"answer": "While it was still dark"
+			},
+			{
+				"question": "Who did Boaz not want anyone to know visited the threshing floor?",
+				"answer": "A woman"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 15,
+		"end_verse": 15,
+		"context": "Then he said, �Hold out the shawl you are wearing and grip it tightly.� As she held it tightly, he measured out about sixty pounds of barley into the shawl and put it on her shoulders. Then he went into town,\n",
+		"questions": [
+			{
+				"question": "What did he measure out into the shawl?",
+				"answer": "Barley"
+			},
+			{
+				"question": "What did he put on her shoulders?",
+				"answer": "Barley"
+			},
+			{
+				"question": "What did he ask her to hold out?",
+				"answer": "The shawl"
+			},
+			{
+				"question": "What did he tell her to do with the shawl?",
+				"answer": "Grip it tightly"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 16,
+		"end_verse": 16,
+		"context": "and she returned to her mother-in-law. When Ruth returned to her mother-in-law, Naomi asked, �How did things turn out for you, my daughter?� Ruth told her about all the man had done for her.\n",
+		"questions": [
+			{
+				"question": "Who did Ruth return to?",
+				"answer": "Her mother-in-law"
+			},
+			{
+				"question": "What did Naomi ask Ruth?",
+				"answer": "How did things turn out for you, my daughter?"
+			},
+			{
+				"question": "Who did Ruth tell about all the man had done for her?",
+				"answer": "Naomi"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 17,
+		"end_verse": 17,
+		"context": "She said, �He gave me these sixty pounds of barley, for he said to me, �Do not go to your mother-in-law empty-handed.��\n",
+		"questions": [
+			{
+				"question": "What did he give her?",
+				"answer": "Sixty pounds of barley"
+			},
+			{
+				"question": "Who did he tell her not to go to empty-handed?",
+				"answer": "Her mother-in-law"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 3,
+		"start_verse": 18,
+		"end_verse": 18,
+		"context": "Then Naomi said, �Stay put, my daughter, until you know how the matter turns out. For the man will not rest until he has taken care of the matter today.�\n",
+		"questions": [
+			{
+				"question": "What did Naomi tell her daughter to do?",
+				"answer": "Stay put"
+			},
+			{
+				"question": "Who will not rest until he has taken care of the matter?",
+				"answer": "The man"
+			},
+			{
+				"question": "What did Naomi want her daughter to wait for?",
+				"answer": "To know how the matter turns out"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 1,
+		"end_verse": 1,
+		"context": "Now Boaz went up to the village gate and sat there. Then along came the guardian whom Boaz had mentioned to Ruth! Boaz said, �Come here and sit down, �John Doe�!� So he came and sat down.\n",
+		"questions": [
+			{
+				"question": "Where did Boaz go and sit?",
+				"answer": "The village gate"
+			},
+			{
+				"question": "Who came to the village gate?",
+				"answer": "The guardian"
+			},
+			{
+				"question": "What did Boaz ask the guardian to do?",
+				"answer": "Come here and sit down"
+			},
+			{
+				"question": "Who came and sat down?",
+				"answer": "He (the guardian)"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 2,
+		"end_verse": 2,
+		"context": "Boaz chose ten of the village leaders and said, �Sit down here!� So they sat down.\n",
+		"questions": [
+			{
+				"question": "How many village leaders did Boaz choose?",
+				"answer": "Ten"
+			},
+			{
+				"question": "What did Boaz tell the village leaders to do?",
+				"answer": "Sit down"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 3,
+		"end_verse": 3,
+		"context": "Then Boaz said to the guardian, �Naomi, who has returned from the region of Moab, is selling the portion of land that belongs to our relative Elimelech.\n",
+		"questions": [
+			{
+				"question": "Who is selling the portion of land?",
+				"answer": "Naomi"
+			},
+			{
+				"question": "Who has returned from the region of Moab?",
+				"answer": "Naomi"
+			},
+			{
+				"question": "Who does the portion of land belong to?",
+				"answer": "Elimelech"
+			},
+			{
+				"question": "Who is the guardian?",
+				"answer": "Boaz"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 4,
+		"end_verse": 4,
+		"context": "So I am legally informing you: Acquire it before those sitting here and before the leaders of my people! If you want to exercise your right to redeem it, then do so. But if not, then tell me so I will know. For you possess the first option to redeem it; I am next in line after you.� He replied, �I will redeem it.�\n",
+		"questions": [
+			{
+				"question": "Who has the first option to redeem it?",
+				"answer": "You"
+			},
+			{
+				"question": "Who is next in line to redeem it?",
+				"answer": "I"
+			},
+			{
+				"question": "Who replied that they will redeem it?",
+				"answer": "He"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 5,
+		"end_verse": 5,
+		"context": "Then Boaz said, �When you acquire the field from Naomi, you must also acquire Ruth the Moabite, the wife of our deceased relative, in order to preserve his family name by raising up a descendant who will inherit his property.�\n",
+		"questions": [
+			{
+				"question": "Who must you acquire when you acquire the field from Naomi?",
+				"answer": "Ruth the Moabite"
+			},
+			{
+				"question": "Who is the wife of our deceased relative?",
+				"answer": "Ruth the Moabite"
+			},
+			{
+				"question": "Why must you acquire Ruth the Moabite?",
+				"answer": "To preserve his family name"
+			},
+			{
+				"question": "What will happen if you raise up a descendant?",
+				"answer": "They will inherit his property"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 6,
+		"end_verse": 6,
+		"context": "The guardian said, �Then I am unable to redeem it, for I would ruin my own inheritance in that case. You may exercise my redemption option, for I am unable to redeem it.�\n",
+		"questions": [
+			{
+				"question": "Who said, 'Then I am unable to redeem it'?",
+				"answer": "The guardian"
+			},
+			{
+				"question": "What would the guardian ruin if he redeemed it?",
+				"answer": "His own inheritance"
+			},
+			{
+				"question": "Who may exercise the redemption option?",
+				"answer": "The guardian"
+			},
+			{
+				"question": "What is the guardian unable to do?",
+				"answer": "Redeem it"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 7,
+		"end_verse": 7,
+		"context": "(Now this used to be the customary way to finalize a transaction involving redemption in Israel: A man would remove his sandal and give it to the other party. This was a legally binding act in Israel.)\n",
+		"questions": [
+			{
+				"question": "What did a man remove to finalize a transaction involving redemption?",
+				"answer": "His sandal"
+			},
+			{
+				"question": "What did a man give to the other party to finalize a transaction involving redemption?",
+				"answer": "His sandal"
+			},
+			{
+				"question": "What was the customary way to finalize a transaction involving redemption in Israel?",
+				"answer": "Removing a sandal"
+			},
+			{
+				"question": "What was a legally binding act in Israel?",
+				"answer": "Removing a sandal"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 8,
+		"end_verse": 8,
+		"context": "So the guardian said to Boaz, �You may acquire it,� and he removed his sandal.\n",
+		"questions": [
+			{
+				"question": "Who said to Boaz that he may acquire it?",
+				"answer": "The guardian"
+			},
+			{
+				"question": "What did the guardian remove?",
+				"answer": "His sandal"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 9,
+		"end_verse": 9,
+		"context": "Then Boaz said to the leaders and all the people, �You are witnesses today that I have acquired from Naomi all that belonged to Elimelech, Kilion, and Mahlon.\n",
+		"questions": [
+			{
+				"question": "Who did Boaz acquire from Naomi?",
+				"answer": "Elimelech, Kilion, and Mahlon"
+			},
+			{
+				"question": "Who are the witnesses of Boaz's acquisition?",
+				"answer": "The leaders and all the people"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 10,
+		"end_verse": 10,
+		"context": "I have also acquired Ruth the Moabite, the wife of Mahlon, as my wife to raise up a descendant who will inherit his property so the name of the deceased might not disappear from among his relatives and from his village. You are witnesses today.�\n",
+		"questions": [
+			{
+				"question": "Who did the speaker acquire as a wife?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "Who was Ruth's husband?",
+				"answer": "Mahlon"
+			},
+			{
+				"question": "Why did the speaker acquire Ruth as a wife?",
+				"answer": "To raise up a descendant"
+			},
+			{
+				"question": "Why did the speaker want the name of the deceased to not disappear?",
+				"answer": "From among his relatives and from his village"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 11,
+		"end_verse": 11,
+		"context": "All the people who were at the gate and the elders replied, �We are witnesses. May the Lord make the woman who is entering your home like Rachel and Leah, both of whom built up the house of Israel! May you prosper in Ephrathah and become famous in Bethlehem.\n",
+		"questions": [
+			{
+				"question": "Who replied at the gate?",
+				"answer": "The people and the elders"
+			},
+			{
+				"question": "What did the people and the elders say about the woman entering the home?",
+				"answer": "May she be like Rachel and Leah"
+			},
+			{
+				"question": "Where do the people and the elders want the person to prosper?",
+				"answer": "Ephrathah"
+			},
+			{
+				"question": "Where do the people and the elders want the person to become famous?",
+				"answer": "Bethlehem"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 12,
+		"end_verse": 12,
+		"context": "May your family become like the family of Perez � whom Tamar bore to Judah � through the descendants the Lord gives you by this young woman.�\n",
+		"questions": [
+			{
+				"question": "Who bore Perez?",
+				"answer": "Tamar"
+			},
+			{
+				"question": "Who is Perez's father?",
+				"answer": "Judah"
+			},
+			{
+				"question": "What did Tamar give birth to?",
+				"answer": "Descendants"
+			},
+			{
+				"question": "Who will give descendants to the Lord?",
+				"answer": "The young woman"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 13,
+		"end_verse": 13,
+		"context": "So Boaz married Ruth and had sexual relations with her. The Lord enabled her to conceive and she gave birth to a son.\n",
+		"questions": [
+			{
+				"question": "Who did Boaz marry?",
+				"answer": "Ruth"
+			},
+			{
+				"question": "What did Boaz and Ruth have?",
+				"answer": "A son"
+			},
+			{
+				"question": "Who enabled Ruth to conceive?",
+				"answer": "The Lord"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 14,
+		"end_verse": 14,
+		"context": "The village women said to Naomi, �May the Lord be praised because he has not left you without a guardian today! May he become famous in Israel!\n",
+		"questions": [
+			{
+				"question": "Who said to Naomi?",
+				"answer": "The village women"
+			},
+			{
+				"question": "Who has not left Naomi without a guardian?",
+				"answer": "The Lord"
+			},
+			{
+				"question": "Who may become famous in Israel?",
+				"answer": "The Lord"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 15,
+		"end_verse": 15,
+		"context": "He will encourage you and provide for you when you are old, for your daughter-in-law, who loves you, has given him birth. She is better to you than seven sons!�\n",
+		"questions": [
+			{
+				"question": "Who will encourage you and provide for you when you are old?",
+				"answer": "He"
+			},
+			{
+				"question": "Who has given him birth?",
+				"answer": "Your daughter-in-law"
+			},
+			{
+				"question": "How many sons is your daughter-in-law better than?",
+				"answer": "Seven"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 16,
+		"end_verse": 16,
+		"context": "Naomi took the child and placed him on her lap; she became his caregiver.\n",
+		"questions": [
+			{
+				"question": "Who did Naomi place on her lap?",
+				"answer": "The child"
+			},
+			{
+				"question": "What did Naomi become to the child?",
+				"answer": "His caregiver"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 17,
+		"end_verse": 17,
+		"context": "The neighbor women named him, saying, �A son has been born to Naomi.� They named him Obed. Now he became the father of Jesse � David�s father!\n",
+		"questions": [
+			{
+				"question": "Who named the son?",
+				"answer": "The neighbor women"
+			},
+			{
+				"question": "What was the name of the son?",
+				"answer": "Obed"
+			},
+			{
+				"question": "Who became the father of Jesse?",
+				"answer": "Obed"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 18,
+		"end_verse": 18,
+		"context": "These are the descendants of Perez: Perez was the father of Hezron,\n",
+		"questions": [
+			{
+				"question": "Who was the father of Hezron?",
+				"answer": "Perez"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 19,
+		"end_verse": 19,
+		"context": "Hezron was the father of Ram, Ram was the father of Amminadab,\n",
+		"questions": [
+			{
+				"question": "Who was the father of Ram?",
+				"answer": "Hezron"
+			},
+			{
+				"question": "Who was the father of Amminadab?",
+				"answer": "Ram"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 20,
+		"end_verse": 20,
+		"context": "Amminadab was the father of Nachshon, Nachshon was the father of Salmah,\n",
+		"questions": [
+			{
+				"question": "Who was the father of Nachshon?",
+				"answer": "Amminadab"
+			},
+			{
+				"question": "Who was the father of Salmah?",
+				"answer": "Nachshon"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 21,
+		"end_verse": 21,
+		"context": "Salmon was the father of Boaz, Boaz was the father of Obed,\n",
+		"questions": [
+			{
+				"question": "Who was the father of Boaz?",
+				"answer": "Salmon"
+			},
+			{
+				"question": "Who was the father of Obed?",
+				"answer": "Boaz"
+			}
+		]
+	},
+	{
+		"book": "RUT",
+		"chapter": 4,
+		"start_verse": 22,
+		"end_verse": 22,
+		"context": "Obed was the father of Jesse, and Jesse was the father of David.\n",
+		"questions": [
+			{
+				"question": "Who was the father of Jesse?",
+				"answer": "Obed"
+			},
+			{
+				"question": "Who was the father of David?",
+				"answer": "Jesse"
+			}
+		]
+	}
+]
