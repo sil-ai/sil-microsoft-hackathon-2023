@@ -18,3 +18,11 @@ Hackathon tasks:
 * Generate Q&A datasets by verse (or pericopes or even entire sections) that should be answerable given a new draft or its back translation.
 * Evaluate the effectiveness of the Q&A datasets for the given purpose.
 * Question-Answer pairs generated for SF community checking may be qualitatively different from those most useful for AQuA’s QA assessment.
+
+Data sources:
+
+* [Ebible Corpus](https://github.com/BibleNLP/ebible)
+* [Greek and Hebrew texts](data/combined_greek_hebrew_vref.csv)
+* [MACULA Hebrew data](https://github.com/Clear-Bible/macula-hebrew)
+* [MACULA Greek data](https://github.com/Clear-Bible/macula-greek)
+* [Pre-hackathon internship work](project_1_task/pre-Hackathon)
