@@ -10,6 +10,10 @@ This repository contains data and code for hitting the ground running.
 
 [SIL-Microsoft Hackathon: Introduction to Bible Translation and Project 1](https://docs.google.com/presentation/d/1N_cfJPq36Wc-5c5HD1GnZkC4ruV7Ppitft9YrDXsAh8)
 
+[Assisted Translation using AI (Ryder Wishart)](https://docs.google.com/presentation/d/1KuW7Xu6fS9JhR1RrqUp1khON0C0dUk5uYTc5E-qnQhI/edit?usp=sharing)
+
+[Tokenization of low-resource languages (Ryder Wishart, Bethany Moore, Matthew Shannon)](https://docs.google.com/presentation/d/12G54_PQlyXFuKdjtDfoNe_8RoOtPmdsSSW6g2CHxWvo/edit?usp=sharing)
+
 ## Data
 
 The data is a collection of Bible translations in the `data/bibles.csv` file.
