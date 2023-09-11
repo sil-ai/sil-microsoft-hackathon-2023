@@ -23,6 +23,18 @@ The data is a collection of Bible translations in the `data/bibles.csv` file.
 - `notebooks/01_quickstart.ipynb` - Quickstart notebook for getting started with the data, including loading the data, and prompting OpenAI with English and source-text data using LangChain
 - `notebooks/99-bibles_provenance.ipynb` - Code used to generate combined and consistent parallel Bible data used in this repository
 
+## Installation
+```
+# Create a virtual environment (optional) and activate it
+python3 -m venv venv
+source venv/bin/activate
+
+# install all the requirments
+pip install -r requirements.txt
+
+```
+
+
 ## Credits
 
 Greek and Hebrew data is sourced from [Clear-Bible/macula-greek](https://github.com/Clear-Bible/macula-greek/) and [Clear-Bible/macula-hebrew](https://github.com/Clear-Bible/macula-hebrew) respectively.
