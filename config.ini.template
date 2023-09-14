@@ -1,0 +1,5 @@
+[openai]
+api_key = PUT_YOUR_API_KEY_HERE
+api_type = azure
+api_base = API_URL
+api_version = 2023-03-15-preview

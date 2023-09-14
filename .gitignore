@@ -1,2 +1,4 @@
 venv/
 .vscode/launch.json
+config.ini
+*.pyc
