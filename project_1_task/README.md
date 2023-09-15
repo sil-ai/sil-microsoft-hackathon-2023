@@ -12,14 +12,17 @@ For example, Scripture Forge provides an interface in which translation teams ca
 
 Additionally, AQuA provides a handful of AI-driven assessments to score and visualize specific areas of scripture that may require extra or early review. If AI can improve the quality of new drafts before they begin the rigorous quality checking process, or identify potential revisions earlier in that quality checking process, overall efficiency could significantly improve. The AQuA team is currently exploring whether an AI-driven Question Answering model could be developed that would be useful in this way to translators and consultants.
 
-Hackathon tasks:
+## Hackathon tasks:
 
 * Evaluate whether Question Answering models, including ChatGPT and other LLMs, could be used to create a new AQuA assessment, and which might be most useful.
 * Generate Q&A datasets by verse (or pericopes or even entire sections) that should be answerable given a new draft or its back translation.
 * Evaluate the effectiveness of the Q&A datasets for the given purpose.
 * Question-Answer pairs generated for SF community checking may be qualitatively different from those most useful for AQuA’s QA assessment.
 
-Data sources:
+## Work done:
+["Fact-based" unit tests](https://github.com/matthewj-t6/Bible-Hackathon/tree/main), by [@matthewj-t6](https://github.com/matthewj-t6)
+
+## Data sources:
 
 * [Ebible Corpus](https://github.com/BibleNLP/ebible)
 * [Greek and Hebrew texts](../data/combined_greek_hebrew_vref.csv)
