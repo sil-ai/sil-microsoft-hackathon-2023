@@ -2,3 +2,15 @@ venv/
 .vscode/launch.json
 config.ini
 *.pyc
+data/amo_embeddings.jsonl
+data/arbnav_embeddings.jsonl
+data/birrig_embeddings.csv
+data/eng-asv_embeddings.jsonl
+data/eng-kjv2006_embeddings.jsonl
+data/eng-web_embeddings.csv
+data/eng-web_embeddings.jsonl
+data/engBBE_embeddings.csv
+data/engBBE_embeddings.jsonl
+data/hin2017_embeddings.jsonl
+data/latVUC_embeddings.jsonl
+data/source_content_embeddings.jsonl
